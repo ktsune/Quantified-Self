@@ -27,7 +27,7 @@
     "uuidv4": "^5.0.1"
   },
   "devDependencies": {
-    "shelljs": "^0.8.3",
+    "shelljs": "^0.8.5",
     "supertest": "^4.0.2"
   }
 }
